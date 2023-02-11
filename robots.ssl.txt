@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /manager/
+Disallow: /assets/components/
+Disallow: /core/
+Disallow: /mgr/
+Disallow: /connectors/
+Host: http://www.ordena.com.ua
+Sitemap: http://http://www.ordena.com.ua/sitemap.xml
